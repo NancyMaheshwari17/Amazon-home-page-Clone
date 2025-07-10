@@ -38,6 +38,6 @@ This is a front-end clone of the Amazon homepage built using **HTML** and **CSS*
 
 ## 👩‍💻 Author
 
-Created by [Nancy Maheshwari].  
+Created by Nancy Maheshwari.  
 For educational and personal portfolio use.
 
